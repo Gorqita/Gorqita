@@ -2,8 +2,8 @@
 
 <a href="https://twitter.com/Gorqita"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/Gorqita" alt="Twitter Badge"/></a>
 <a href="https://discord.com/users/337449461708226561"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/910543706489237544" alt="Discord Badge"/></a>
-<a href="https://paypal.me/Gorqita"><img src="https://img.shields.io/badge/-PayPal-000000?style=flat-square&labelColor=000000&logo=paypal&logoColor=white&link=https://paypal.me/MateoDeveloper" alt="PayPal Badge"/></a>
-<a href="https://github.com/Gorqita"> alt="Profile Views"/></a>
+<a href="https://paypal.me/Gorqita"><img src="https://img.shields.io/badge/-PayPal-000000?style=flat-square&labelColor=000000&logo=paypal&logoColor=white&link=https://paypal.me/Gorqita" alt="PayPal Badge"/></a>
+<a href="https://github.com/Gorqita">"/></a>
 
 👋 Welcome to my profile! I'm **Gorqita**, a passionate **developer** and founder of **Quoty**, a transformative platform that acts as a **digital ally** for businesses. Alongside Quoty, I am also co-developing **Guilda**, a Discord bot project designed to revolutionize server management and engagement.
 
